@@ -3,7 +3,7 @@
 Play the game in your browser: 👇
 [Blackjack Game](https://replit.com/@ArmandtErasmus/BlackJack?v=1)
 
-#Description
+# Description
 The Blackjack Game is a Python program that simulates the popular casino card game. It allows players to play against a computer dealer and try to obtain a hand value as close to 21 as possible without exceeding it. The game follows standard Blackjack rules, where numbered cards are worth their face value, face cards are worth 10, and Aces can be worth either 1 or 11, depending on the player's choice.
 
 # Skills Utilized
